@@ -1,9 +1,9 @@
-package br.gabrielbressi.designpatterns.observer.example01;
+package br.gabrielbressi.designpatterns.behavioral.observer.example01;
 
-import br.gabrielbressi.designpatterns.observer.example01.classes.EmailMsgListener;
-import br.gabrielbressi.designpatterns.observer.example01.classes.Event;
-import br.gabrielbressi.designpatterns.observer.example01.classes.MobileAppListener;
-import br.gabrielbressi.designpatterns.observer.example01.classes.Store;
+import br.gabrielbressi.designpatterns.behavioral.observer.example01.classes.Event;
+import br.gabrielbressi.designpatterns.behavioral.observer.example01.classes.MobileAppListener;
+import br.gabrielbressi.designpatterns.behavioral.observer.example01.classes.EmailMsgListener;
+import br.gabrielbressi.designpatterns.behavioral.observer.example01.classes.Store;
 
 public class Main {
 

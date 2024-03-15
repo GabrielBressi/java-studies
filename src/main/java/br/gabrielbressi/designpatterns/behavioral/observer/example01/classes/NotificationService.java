@@ -1,12 +1,12 @@
-package br.gabrielbressi.designpatterns.observer.example01.classes;
+package br.gabrielbressi.designpatterns.behavioral.observer.example01.classes;
 
-import br.gabrielbressi.designpatterns.observer.example01.interfaces.EventListener;
+import br.gabrielbressi.designpatterns.behavioral.observer.example01.interfaces.EventListener;
 
 import java.util.*;
 
 public class NotificationService {
 
-    private final Map<Event, List<EventListener>> customers;
+    private final Map<Event, List<br.gabrielbressi.designpatterns.behavioral.observer.example01.interfaces.EventListener>> customers;
 
     public NotificationService() {
         customers = new HashMap<>();
@@ -15,7 +15,7 @@ public class NotificationService {
         );
     }
 
-    public void subscribe(Event eventType, EventListener listener) {
+    public void subscribe(Event eventType, br.gabrielbressi.designpatterns.behavioral.observer.example01.interfaces.EventListener listener) {
         customers.get(eventType).add(listener);
     }
 

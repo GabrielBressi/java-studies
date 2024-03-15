@@ -1,7 +1,7 @@
-package br.gabrielbressi.designpatterns.observer.example03.classes;
+package br.gabrielbressi.designpatterns.behavioral.observer.example03.classes;
 
-import br.gabrielbressi.designpatterns.observer.example03.IObserver;
-import br.gabrielbressi.designpatterns.observer.example03.ISubject;
+import br.gabrielbressi.designpatterns.behavioral.observer.example03.IObserver;
+import br.gabrielbressi.designpatterns.behavioral.observer.example03.ISubject;
 
 import java.util.ArrayList;
 import java.util.List;

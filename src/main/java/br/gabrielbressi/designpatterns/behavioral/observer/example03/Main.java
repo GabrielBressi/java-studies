@@ -1,9 +1,9 @@
-package br.gabrielbressi.designpatterns.observer.example03;
+package br.gabrielbressi.designpatterns.behavioral.observer.example03;
 
-import br.gabrielbressi.designpatterns.observer.example03.classes.Feed;
-import br.gabrielbressi.designpatterns.observer.example03.classes.Subscriber;
-import br.gabrielbressi.designpatterns.observer.example03.classes.Video;
-import br.gabrielbressi.designpatterns.observer.example03.classes.VideoNotification;
+import br.gabrielbressi.designpatterns.behavioral.observer.example03.classes.Video;
+import br.gabrielbressi.designpatterns.behavioral.observer.example03.classes.VideoNotification;
+import br.gabrielbressi.designpatterns.behavioral.observer.example03.classes.Feed;
+import br.gabrielbressi.designpatterns.behavioral.observer.example03.classes.Subscriber;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package br.gabrielbressi.designpatterns.observer.example03.classes;
+package br.gabrielbressi.designpatterns.behavioral.observer.example03.classes;
 
 public class Video {
 

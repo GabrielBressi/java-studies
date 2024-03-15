@@ -1,4 +1,4 @@
-package br.gabrielbressi.designpatterns.observer.example01.classes;
+package br.gabrielbressi.designpatterns.behavioral.observer.example01.classes;
 
 public class Store {
 

@@ -1,6 +1,6 @@
-package br.gabrielbressi.designpatterns.observer.example02.classes;
+package br.gabrielbressi.designpatterns.behavioral.observer.example02.classes;
 
-import br.gabrielbressi.designpatterns.observer.example02.interfaces.IObserver;
+import br.gabrielbressi.designpatterns.behavioral.observer.example02.interfaces.IObserver;
 
 public class Observer implements IObserver {
 

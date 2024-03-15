@@ -1,7 +1,7 @@
-package br.gabrielbressi.designpatterns.observer.example02;
+package br.gabrielbressi.designpatterns.behavioral.observer.example02;
 
-import br.gabrielbressi.designpatterns.observer.example02.classes.Observer;
-import br.gabrielbressi.designpatterns.observer.example02.classes.Subject;
+import br.gabrielbressi.designpatterns.behavioral.observer.example02.classes.Observer;
+import br.gabrielbressi.designpatterns.behavioral.observer.example02.classes.Subject;
 
 public class Main {
 

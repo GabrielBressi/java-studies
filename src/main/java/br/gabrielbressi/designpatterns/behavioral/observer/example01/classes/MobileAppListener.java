@@ -1,6 +1,6 @@
-package br.gabrielbressi.designpatterns.observer.example01.classes;
+package br.gabrielbressi.designpatterns.behavioral.observer.example01.classes;
 
-import br.gabrielbressi.designpatterns.observer.example01.interfaces.EventListener;
+import br.gabrielbressi.designpatterns.behavioral.observer.example01.interfaces.EventListener;
 
 public class MobileAppListener implements EventListener {
     private final String username;

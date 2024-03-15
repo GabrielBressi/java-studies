@@ -1,11 +1,13 @@
-package br.gabrielbressi.designpatterns.observer.example03;
+package br.gabrielbressi.designpatterns.behavioral.observer.example02.interfaces;
 
 public interface ISubject {
 
     void subscribe(IObserver observer);
     void unsubscribe(IObserver observer);
-    void unsubscribeAll();
+    void usubscribeAll();
     void notify(IObserver observer);
+
+    //void notifyAll();
     void notifyAllObs();
 
 }
